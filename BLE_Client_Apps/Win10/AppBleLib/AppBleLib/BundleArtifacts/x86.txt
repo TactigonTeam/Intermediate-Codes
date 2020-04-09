@@ -1,0 +1,2 @@
+MainPackage=D:\progetti\c#\AppBleLib\AppBleLib\bin\x86\Debug\AppBleLib_1.0.1.0_x86_Debug.appx
+SymbolPackage=D:\progetti\c#\AppBleLib\AppBleLib\AppPackages\AppBleLib_1.0.1.0_Debug_Test\AppBleLib_1.0.1.0_x86_Debug.appxsym
