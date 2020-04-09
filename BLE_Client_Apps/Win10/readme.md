@@ -7,7 +7,7 @@ This project is an example of an easy way to connect and read data from BLE inte
 
 ## Structure
 
-The project is a VisualStudio 2017 Solution available in [AppBleLib]() folder.
+The project is a VisualStudio 2017 Solution available in [AppBleLib](https://github.com/TactigonTeam/Intermediate-Codes/tree/master/BLE_Client_Apps/Win10/AppBleLib) folder.
 Solution includes two project:
 
 * a library that provides class to connect, and register on notifications to a BLE characteristics and rise callback on new data event
@@ -18,7 +18,7 @@ Splitting app / library lets to easily port all the BLE handling procedures incl
 
 ## Testing and use
 
-On Tactigon board side: just upload [sketch]() and run it.
+On Tactigon board side: just upload [sketch](https://github.com/TactigonTeam/Intermediate-Codes/tree/master/BLE_Client_Apps/Tactigon_example_code) and run it.
 
 On the C# side of the code the app use the BLE library to:
 
