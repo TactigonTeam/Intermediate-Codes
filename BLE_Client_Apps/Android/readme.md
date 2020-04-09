@@ -1,6 +1,6 @@
 # BLE_Client_Apps (Android)
 
-This is a very simple Android application written with Processing to communicate with the Tactigon board
+This is a very simple Android application written with Processing to communicate with the Tactigon board.
 
 ## Getting started
 
