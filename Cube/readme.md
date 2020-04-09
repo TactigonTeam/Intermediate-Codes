@@ -9,9 +9,9 @@ These instructions will get you a copy of the project up and running on your loc
 ## Structure
 This project is composed by a Arduino sketch running on TSkin/Tactigon side and a Processing sketch running on a Android smartphone.
 
-* Arduino sketch: [TactigonCube]() folder
+* Arduino sketch: [TactigonCube](https://github.com/TactigonTeam/Intermediate-Codes/tree/master/Cube/TactigonCube) folder
 
-* Processing sketch: [sketch_ble_cube]() folder
+* Processing sketch: [sketch_ble_cube](https://github.com/TactigonTeam/Intermediate-Codes/tree/master/Cube/sketch_ble_cube) folder
 
 ## Development
 
