@@ -6,9 +6,9 @@ This is a python example running on a Raspberry PI3.
 
 It shows how:
 
-1) continuously scan for target BLE device in order to recover from disconnection
-2) connect to target device and register on NOTIFICATION on target characteristic
-3) unpack acceleration data coming from Tactigon board
+* continuously scan for target BLE device in order to recover from disconnection
+* connect to target device and register on NOTIFICATION on target characteristic
+* unpack acceleration data coming from Tactigon board
 
 It creates a Thread for every connected device so it can be extended to connect to multiple
 Tactigon board at the same time.
