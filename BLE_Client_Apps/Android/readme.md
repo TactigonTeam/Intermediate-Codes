@@ -9,7 +9,7 @@ This app does:
 1) search for "TACTI" device on BLE interface and connect to it
 
 2) register on NOTIFICATION on characteristic with UUID = "bea5760d-503d-4920-b000-101e7306b007"
-   On this characteristic acceleration data are streamed (refer to Tactigon example in "3-Data_on_BLE_Peripheral" folder)
+   On this characteristic acceleration data are streamed (refer to Tactigon [example code]())
 
 3) unpack the binary data in this characteristic
 
