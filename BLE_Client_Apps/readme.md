@@ -8,4 +8,6 @@ This project is composed of 3 main folders and an example code to upload to the 
 * [Android Client App](https://github.com/TactigonTeam/Intermediate-Codes/tree/master/BLE_Client_Apps/Android)
 * [Raspberry Pi Client](https://github.com/TactigonTeam/Intermediate-Codes/tree/master/BLE_Client_Apps/Raspberry)
 * [Windows 10 Client](https://github.com/TactigonTeam/Intermediate-Codes/tree/master/BLE_Client_Apps/Win10)
-* [Tactigon example code](https://github.com/TactigonTeam/Intermediate-Codes/tree/master/BLE_Client_Apps/Tactigon_example_code)
+
+## Tactigon Code
+* [Tactigon example code](https://github.com/TactigonTeam/Intermediate-Codes/tree/master/BLE_Peripheral_Mode)
