@@ -1,4 +1,4 @@
-# BLE_Tactigon
+# BLE_Peripheral_Mode
 
 In this sketch Tactigon board is configured as a PERIPHERAL device on BLE.
 On BLE interface it exposes 4 different characteristics used to stream IMU data
