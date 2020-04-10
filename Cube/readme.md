@@ -1,6 +1,6 @@
 # Cube
 
-The aim of this project is showing a 3D cube on a Smartphone which orientation in updated in real time depending on actual orientation of TSkin/Tactigon
+The aim of this project is showing a 3D cube on a Smartphone which orientation is updated in real time depending on actual orientation of TSkin/Tactigon
 
 ## Getting Started
 
