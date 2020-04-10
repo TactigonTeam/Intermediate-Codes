@@ -1,6 +1,6 @@
 # Cube
 
-The aim of this project is showing a 3D cube on a Smartphone which orientation is updated in real time depending on actual orientation of TSkin/Tactigon
+The aim of this project is showing a 3D cube on a Smartphone which orientation is updated in real time depending on actual orientation of TSkin/Tactigon.
 
 ## Getting Started
 
@@ -18,12 +18,12 @@ This project is composed by a Arduino sketch running on TSkin/Tactigon side and 
 On Tactigon board side project has been developed with Arduino IDE v.1.8.9 configured with support for Tactigon board.
 Refer to this link for Arduino API: https://www.thetactigon.com/arduino/doxygen/index.html
 
-On Smartphone side project has been developed with Processing v.3.5.3 with support for Android mode
+On Smartphone side project has been developed with Processing v.3.5.3 with support for Android mode.
 Tested on Android 8 running on Smartphone with Bluetooth version 4.1 – 5.0
 
 ## Testing and use
 
-On Tactigon board side: just upload sketch and run it
+On Tactigon board side: just upload sketch and run it.
 
 On Smartphone side: 
 - enable Bluetooth
